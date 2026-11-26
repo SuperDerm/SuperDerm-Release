@@ -7,6 +7,7 @@ name = "superderm-eval"
 version = "1.0.0"
 description = "Reproducible scorer for the SuperDerm community challenges (open-ended dermatology diagnosis)."
 readme = "README.md"
+license = { text = "Apache-2.0" }
 requires-python = ">=3.10"
 dependencies = []
 

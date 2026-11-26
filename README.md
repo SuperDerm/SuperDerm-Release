@@ -20,6 +20,11 @@
   standard library only. [evaluator/](evaluator/)
 - **SuperDerm VLM and Full System**: will be open-sourced here. The final versions are in training.
 
+## Licence
+
+The code (the scorer and the matching script) is released under the [Apache License 2.0](LICENSE). Each row of a data
+release follows the terms of its source dataset; see the [dataset card](datasets/superderm-424k/README.md).
+
 ## Cite
 
 Fang C, Cao X, Talio A, Ye W, Porter CW, Rehg JM, Coffee M. SuperDerm: A Benchmark for Open-Ended Diagnosis of Common
