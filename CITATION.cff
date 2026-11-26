@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use SuperDerm data, the taxonomy or the scorer, please cite the SuperDerm preprint and each source dataset you use."
+title: "SuperDerm: A Benchmark for Open-Ended Diagnosis of Common and Rare Skin Diseases"
+type: dataset
+authors:
+  - family-names: Fang
+    given-names: Chen
+  - family-names: Cao
+    given-names: Xu
+  - family-names: Talio
+    given-names: Angelo
+  - family-names: "Ye"
+    given-names: Wenqian
+  - family-names: Porter
+    given-names: Christopher W.
+  - family-names: Rehg
+    given-names: James M.
+  - family-names: Coffee
+    given-names: Megan
+repository-code: "https://github.com/SuperDerm/SuperDerm-Release"
+url: "https://superderm.org"
+keywords:
+  - dermatology
+  - clinical photographs
+  - open-ended diagnosis
+  - rare diseases
+  - benchmark
+version: "424k-v0.1"
+date-released: "2026-11-25"
+preferred-citation:
+  type: article
+  title: "SuperDerm: A Benchmark for Open-Ended Diagnosis of Common and Rare Skin Diseases"
+  authors:
+    - family-names: Fang
+      given-names: Chen
+    - family-names: Cao
+      given-names: Xu
+    - family-names: Talio
+      given-names: Angelo
+    - family-names: "Ye"
+      given-names: Wenqian
+    - family-names: Porter
+      given-names: Christopher W.
+    - family-names: Rehg
+      given-names: James M.
+    - family-names: Coffee
+      given-names: Megan
+  year: 2026
+  notes: "Preprint"
