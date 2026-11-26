@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "superderm-eval"
+version = "1.0.0"
+description = "Reproducible scorer for the SuperDerm community challenges (open-ended dermatology diagnosis)."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+superderm-eval = "superderm_eval.cli:main"
+
+[tool.setuptools]
+packages = ["superderm_eval"]

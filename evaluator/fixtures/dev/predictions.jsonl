@@ -1,0 +1,5 @@
+{"case_id":"s_demo_001","predictions":["Mpox","Varicella","Herpes Zoster"]}
+{"case_id":"s_demo_002","predictions":["Varicella","Mpox","Smallpox"]}
+{"case_id":"s_demo_003","predictions":["insect bite"]}
+{"case_id":"s_demo_004","predictions":["Not A Real Diagnosis"]}
+{"case_id":"s_demo_005","predictions":[]}

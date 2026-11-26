@@ -1,0 +1,13 @@
+{
+  "challenge_id": "rare-and-mimics",
+  "challenge_version": "dev-1",
+  "scorer_version": "1.0.0",
+  "vocabulary": {"id": "superderm-diagnoses", "version": "1.0.0"},
+  "primary": {"metric": "macro_recall@3", "diagnoses": ["DX-070", "DX-074"]},
+  "secondary": [
+    {"metric": "acc@1"},
+    {"metric": "acc@3"},
+    {"metric": "acc@1", "cohort": "common_mimic"},
+    {"metric": "acc@3", "cohort": "common_mimic"}
+  ]
+}

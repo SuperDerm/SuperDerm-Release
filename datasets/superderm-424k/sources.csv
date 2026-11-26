@@ -1,0 +1,22 @@
+dataset,rows,labelled,licence,licence_url,homepage,citation,images_from
+Derm1M,323699,194072,CC BY-NC 4.0,https://creativecommons.org/licenses/by-nc/4.0/,https://huggingface.co/datasets/redlessone/Derm1M,"Yan et al., ICCV 2025",Hugging Face (gated: agree to non-commercial research use)
+Fitzpatrick17k,12398,12357,CC BY-NC-SA 3.0 (annotations),https://creativecommons.org/licenses/by-nc-sa/3.0/,https://github.com/mattgroh/fitzpatrick17k,"Groh et al., CVPR Workshops 2021",the url column of fitzpatrick17k.csv (original atlas sites); files are named <md5hash>.jpg
+SCIN,10322,6060,SCIN Data Use License,https://github.com/google-research-datasets/scin/blob/main/LICENSE,https://github.com/google-research-datasets/scin,"Ward et al., JAMA Network Open 2024",the dx-scin-public-data Google Cloud Storage bucket
+PAD-UFES-20,2282,2282,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/,https://data.mendeley.com/datasets/zr7vgbcyr2/1,"Pacheco et al., Data in Brief 2020",Mendeley Data (imgs_part_1 to imgs_part_3)
+SkinDisNet,1864,1864,CC BY-NC 4.0,https://creativecommons.org/licenses/by-nc/4.0/,https://data.mendeley.com/datasets/yj3md44hxg/2,"Sultana et al., Data in Brief 2025","Mendeley Data, versions 1 and 2 (their folder names differ)"
+SkinCAP,2869,2861,CC BY-NC-SA 4.0,https://creativecommons.org/licenses/by-nc-sa/4.0/,https://huggingface.co/datasets/joshuachou/SkinCAP,"Zhou et al., 2024",Hugging Face
+DDI,652,517,Labels shared with the creators' permission; images under the DDI data use agreement,https://ddi-dataset.github.io/,https://ddi-dataset.github.io/,"Daneshjou et al., Science Advances 2022","the DDI site, after accepting its agreement"
+PASSION,3645,2985,Labels shared with the creators' permission; images under the PASSION data public license,https://passionderm.github.io/,https://passionderm.github.io/,"Gottfrois et al., MICCAI 2024","the PASSION site, after accepting its licence"
+DermaCon-IN,5433,5070,Labels shared with the creators' permission; images under the provider's terms,,,"Madarkar et al., NeurIPS 2025 Datasets and Benchmarks",the dataset's creators
+SD-260,19035,18162,Labels shared with the creators' permission; images under the provider's terms,,,"Yang et al., IEEE TNNLS 2020",the dataset's creators
+SD-198,27,0,Labels shared with the creators' permission; images under the provider's terms,,,"Sun et al., ECCV 2016",the dataset's creators
+MSLD_v1,51,15,Provider's terms,,,"Ali et al., 2022",the MSLD v1 release
+MSLD_v2.0,754,754,Provider's terms,,,"Ali et al., Biomedical Signal Processing and Control 2024",the MSLD v2.0 release
+MSID,648,648,Provider's terms,,https://data.mendeley.com/datasets/r9bfpnvyxr/6,"Bala et al., Mendeley Data 2023",Mendeley Data
+MPXV-CNN,9826,0,Provider's terms,,,"Thieme et al., Nature Medicine 2023",the web sources listed by MPXV-CNN; source_file begins with the site name
+Ahsan2022,119,119,Provider's terms,,,"Ahsan et al., 2022",the Monkeypox image data collection repository
+Islam6,823,823,Provider's terms,,,,the monkeypox-dataset repository
+MPox-Vision,680,680,Provider's terms,,,,the MonkeyPox Skin Image Dataset for Computer Vision
+MCSI,299,299,Provider's terms,,,,the MCSI release
+MCVSLD,4,4,Provider's terms,,,,the MCVSLD release
+UKHSA,2,2,"Crown copyright, Open Government Licence",https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,https://www.gov.uk/guidance/mpox,UK Health Security Agency,the UK Health Security Agency mpox guidance

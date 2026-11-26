@@ -1,0 +1,6 @@
+case_id,gold_term_id,cohort,challenge_version
+s_demo_001,DX-070,rare_high_consequence,dev-1
+s_demo_002,DX-074,rare_high_consequence,dev-1
+s_demo_003,DX-111,common_mimic,dev-1
+s_demo_004,DX-076,common_mimic,dev-1
+s_demo_005,DX-067,common_mimic,dev-1

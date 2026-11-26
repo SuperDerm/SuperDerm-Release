@@ -1,0 +1,6 @@
+{"case_id":"s_demo_001","predictions":["Smallpox","Variola"]}
+{"case_id":"s_demo_002","predictions":["Mpox","Varicella","Herpes Zoster","Smallpox"]}
+{"case_id":"s_demo_003","predictions":[42,"   "]}
+{"case_id":"s_demo_003","predictions":[]}
+{"case_id":"s_demo_999","predictions":[],"note":"extra key"}
+this line is not JSON
