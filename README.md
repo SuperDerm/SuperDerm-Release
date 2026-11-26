@@ -12,7 +12,7 @@
 
 - **SuperDerm-424K v0.1 · Public Sources**: labels, splits and quality tiers for 395,432 clinical photographs from 21
   public datasets, mapped to 214 diagnoses. No images and no NYU data.
-  [Download](https://github.com/ChenFangfc/SuperDerm-Release/releases/tag/424k-v0.1) ·
+  [Download](https://github.com/SuperDerm/SuperDerm-Release/releases/tag/424k-v0.1) ·
   [Dataset card](datasets/superderm-424k/README.md)
 - **Diagnostic Taxonomy v1**: 214 diagnoses in 9 categories, with rare and high-consequence designations.
   [taxonomy/diagnoses.v1.json](taxonomy/diagnoses.v1.json)
